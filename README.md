@@ -1,5 +1,7 @@
 # Funnel Analysis
 
+<img width="1200" height="630" alt="3" src="https://github.com/user-attachments/assets/0025be9a-b7d1-48ed-8873-3656d0214fd3" />
+
 ## Executive Summary
 
 This project analyzes the customer journey in an e-commerce platform using funnel analysis.  
